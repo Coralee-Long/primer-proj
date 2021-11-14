@@ -16,7 +16,7 @@ body {
 /* Featured Item Styles */
 
 .featured-item {
-    max-height: 850px;
+    max-height: 1400px;
     justify-content: center;
     position: relative;
 }
